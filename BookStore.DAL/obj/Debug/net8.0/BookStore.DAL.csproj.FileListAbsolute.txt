@@ -1,0 +1,12 @@
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.DAL\bin\Debug\net8.0\BookStore.DAL.deps.json
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.DAL\bin\Debug\net8.0\BookStore.DAL.dll
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.DAL\bin\Debug\net8.0\BookStore.DAL.pdb
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.DAL\obj\Debug\net8.0\BookStore.DAL.csproj.AssemblyReference.cache
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.DAL\obj\Debug\net8.0\BookStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.DAL\obj\Debug\net8.0\BookStore.DAL.AssemblyInfoInputs.cache
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.DAL\obj\Debug\net8.0\BookStore.DAL.AssemblyInfo.cs
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.DAL\obj\Debug\net8.0\BookStore.DAL.csproj.CoreCompileInputs.cache
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.DAL\obj\Debug\net8.0\BookStore.DAL.dll
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.DAL\obj\Debug\net8.0\refint\BookStore.DAL.dll
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.DAL\obj\Debug\net8.0\BookStore.DAL.pdb
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.DAL\obj\Debug\net8.0\ref\BookStore.DAL.dll

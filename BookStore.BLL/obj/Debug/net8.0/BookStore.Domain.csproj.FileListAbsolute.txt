@@ -1,0 +1,11 @@
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.Domain\bin\Debug\net8.0\BookStore.Domain.deps.json
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.Domain\bin\Debug\net8.0\BookStore.Domain.dll
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.Domain\bin\Debug\net8.0\BookStore.Domain.pdb
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.AssemblyInfoInputs.cache
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.AssemblyInfo.cs
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.csproj.CoreCompileInputs.cache
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.dll
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.Domain\obj\Debug\net8.0\refint\BookStore.Domain.dll
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.Domain\obj\Debug\net8.0\BookStore.Domain.pdb
+D:\Универ. Проекты\RiderProjects\ReactTestApp\ReactCRUD\BookStore.Domain\obj\Debug\net8.0\ref\BookStore.Domain.dll

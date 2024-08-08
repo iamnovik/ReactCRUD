@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Универ. Проекты\\RiderProjects\\ReactTestApp\\ReactCRUD\\BookStore.BLL\\BookStore.BLL.csproj": {}
+  },
+  "projects": {
+    "D:\\Универ. Проекты\\RiderProjects\\ReactTestApp\\ReactCRUD\\BookStore.BLL\\BookStore.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Универ. Проекты\\RiderProjects\\ReactTestApp\\ReactCRUD\\BookStore.BLL\\BookStore.BLL.csproj",
+        "projectName": "BookStore.BLL",
+        "projectPath": "D:\\Универ. Проекты\\RiderProjects\\ReactTestApp\\ReactCRUD\\BookStore.BLL\\BookStore.BLL.csproj",
+        "packagesPath": "C:\\Users\\novik\\.nuget\\packages\\",
+        "outputPath": "D:\\Универ. Проекты\\RiderProjects\\ReactTestApp\\ReactCRUD\\BookStore.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\novik\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Универ. Проекты\\RiderProjects\\ReactTestApp\\ReactCRUD\\BookStore.DAL\\BookStore.DAL.csproj": {
+                "projectPath": "D:\\Универ. Проекты\\RiderProjects\\ReactTestApp\\ReactCRUD\\BookStore.DAL\\BookStore.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Универ. Проекты\\RiderProjects\\ReactTestApp\\ReactCRUD\\BookStore.DAL\\BookStore.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Универ. Проекты\\RiderProjects\\ReactTestApp\\ReactCRUD\\BookStore.DAL\\BookStore.DAL.csproj",
+        "projectName": "BookStore.DAL",
+        "projectPath": "D:\\Универ. Проекты\\RiderProjects\\ReactTestApp\\ReactCRUD\\BookStore.DAL\\BookStore.DAL.csproj",
+        "packagesPath": "C:\\Users\\novik\\.nuget\\packages\\",
+        "outputPath": "D:\\Универ. Проекты\\RiderProjects\\ReactTestApp\\ReactCRUD\\BookStore.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\novik\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
